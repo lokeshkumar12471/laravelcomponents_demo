@@ -1,4 +1,4 @@
-<x-navbar />
+<x-Frontend.navbar />
 <div class="container">
     <div class="row">
         <div class="col-sm-4">
@@ -236,4 +236,4 @@
         <p>Saturday -----------------<span>09:30-17:00</span></p>
         <p>Sunday -------------------<span>10:30-18:00</span></p>
     </div>
-    <x-footer />
+    <x-Frontend.footer />

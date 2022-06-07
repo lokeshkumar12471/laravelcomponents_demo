@@ -8,11 +8,11 @@ class BasicController extends Controller
 {
     public function index()
     {
-        return view('layouts.main');
+        return view('layouts.Frontend.main');
     }
     public function create()
     {
-        return view('layouts.section');
+        return view('layouts.Frontend.section');
 
     }
 }

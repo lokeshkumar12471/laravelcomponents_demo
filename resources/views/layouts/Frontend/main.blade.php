@@ -1,4 +1,4 @@
- <x-navbar />
+ <x-Frontend.navbar />
  <div class="row" style="background-image: linear-gradient(60deg, #c7d8e8, #fde6e7);
 }">
      <div class="col-sm-4 mt-5">
@@ -36,4 +36,4 @@
              </div>
          </div>
      </div>
-     <x-footer />
+     <x-Frontend.footer />
